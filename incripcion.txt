@@ -1,0 +1,3 @@
+El estudiante : Walter identificado con C.C. : 15515515, se ha inscrito al siguiente curso: 
+NOMBRE: Matematicas - ID CURSO: 1
+DURACIÓN: 1 Meses - VALOR: 100000
